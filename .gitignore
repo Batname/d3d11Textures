@@ -1,0 +1,7 @@
+x64/*
+d3d11Textures/x64/*
+d3d11Textures/Debug/*
+*.VC.db
+*.VC.VC.opendb
+External/DimencoHMDCustomPresent/1.0.0/.vs
+.vs/*
